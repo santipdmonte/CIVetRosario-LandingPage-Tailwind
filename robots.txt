@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /domicilios
+Disallow: /encuesta
+
+Sitemap: https://civetrosario.com/sitemap.xml

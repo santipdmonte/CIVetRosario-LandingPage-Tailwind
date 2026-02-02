@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,8 +18,19 @@
 
     <!-- Meta Datos -->
     <title>Veterinaria en Rosario | Dr. Julian Pedemonte | CIVet Rosario</title>
-    <meta name="description" 
-        content="Veterina en Rosario. Ofrecemos urgencias veterinarias 24hs, peluquería canina, petShop, chips para viajar con Perros & Gatos y mas servicios.">
+    <meta name="description"
+        content="Veterinaria en Rosario. Ofrecemos urgencias veterinarias 24hs, peluquería canina, petShop, chips para viajar con Perros & Gatos y mas servicios.">
+    <meta name="theme-color" content="#D353FA">
+    <link rel="canonical" href="https://civetrosario.com/">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Veterinaria en Rosario | CIVet Rosario">
+    <meta property="og:description" content="Veterinaria en Rosario. Urgencias veterinarias 24hs, peluquería canina, petShop, chips para viajar con Perros & Gatos y mas servicios.">
+    <meta property="og:image" content="https://civetrosario.com/assets/img/header/Logo-color.webp">
+    <meta property="og:url" content="https://civetrosario.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="es_AR">
+    <meta name="twitter:card" content="summary_large_image">
 
     <!-- CSS -->
     <link rel="stylesheet" href="./src/output.css">
@@ -31,18 +42,74 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <!-- swiper css -->
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3BGSEJRQ8S"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'G-3BGSEJRQ8S');
+    <!-- Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "VeterinaryCare",
+      "name": "CIVet Rosario",
+      "alternateName": "Centro Integral Veterinario Rosario",
+      "description": "Veterinaria en Rosario. Urgencias veterinarias 24hs, peluquería canina, petShop, chips para viajar con Perros y Gatos y mas servicios.",
+      "url": "https://civetrosario.com",
+      "telephone": "+543414851242",
+      "email": "civetpedemonte@gmail.com",
+      "image": "https://civetrosario.com/assets/img/header/Logo-color.webp",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pasco 1851",
+        "addressLocality": "Rosario",
+        "addressRegion": "Santa Fe",
+        "postalCode": "S2000",
+        "addressCountry": "AR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -32.9575,
+        "longitude": -60.6505
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "09:00",
+          "closes": "12:30"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "16:30",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:00",
+          "closes": "13:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "17:00",
+          "closes": "19:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/civetrosario",
+        "https://www.instagram.com/civetrosario/"
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "Dr. Julian Pedemonte",
+        "jobTitle": "Veterinario"
+      },
+      "currenciesAccepted": "ARS",
+      "paymentAccepted": "Cash, Credit Card",
+      "priceRange": "$$"
+    }
     </script>
 </head>
 <body>
@@ -55,8 +122,8 @@
         >
             <!-- Logo -->
             <div class="flex justify-center lg:justify-normal">
-                <a href="/" aria-label="Ir a la pagina principal de inicio" aria-label="Ir a la pagina principal de inicio">
-                    <img class="h-28" src="assets/img/header/Logo-color.webp" alt="">
+                <a href="/" aria-label="Ir a la pagina principal de inicio">
+                    <img class="h-28" src="assets/img/header/Logo-color.webp" alt="CIVet Rosario - Centro Integral Veterinario">
                 </a>
             </div>
 
@@ -72,7 +139,7 @@
                 <!-- Telefono -->
                 <div class="flex justify-center items-center gap-x-2 lg:justify-normal">
                     <i class="ri-phone-fill text-2xl text-accent"></i>
-                    <a class="text-secondary hover:text-accent-secondary transition-all duration-300" href="tel:4851242">4851242</a>
+                    <a class="text-secondary hover:text-accent-secondary transition-all duration-300" href="tel:+543414851242">4851242</a>
                 </div>
                 <!-- btn -->
                 <a href="/turnos" class="hidden lg:flex items-center">
@@ -96,7 +163,7 @@
                     <div class="px-12 flex flex-col gap-y-12 h-full">
                         <!-- Logo -->
                         <a href="/" aria-label="Ir a la pagina principal de inicio">
-                            <img class="h-28" src="assets/img/header/Logo-color.webp" alt="">
+                            <img class="h-28" src="assets/img/header/Logo-color.webp" alt="CIVet Rosario - Centro Integral Veterinario">
                         </a>
                         <!-- List -->
                         <ul class="flex flex-col gap-y-5">
@@ -142,7 +209,7 @@
                                     target="_BLANK"    
                                     href="https://wa.me/5493416402289?text=Buen%20Dia!%20Queria%20consultar..."
                                     class="text-secondary hover:text-accent transition-all duration-300"
-                                >WhastApp</a>
+                                >WhatsApp</a>
                             </li>
                         </ul>
 
@@ -150,48 +217,48 @@
                 </nav>
 
                 <!-- desktop nav -->
-                <nav 
-                class="bg-white absolute w-full left-0 -bottom-[86px] 
+                <nav
+                class="bg-white absolute w-full left-0 -bottom-[86px]
                 shadow-custom1 h-16 rounded-[10px] hidden lg:flex lg:items-center lg:justify-between lg:px-[50px]">
                     <!-- List -->
                     <ul class="flex gap-x-4">
                         <li>
-                            <a 
+                            <a
                                 href="/" aria-label="Ir a la pagina principal de inicio"
                                 class="border-r pr-4 text-secondary hover:text-accent transition-all duration-300"
                             >Inicio</a>
                         </li>
                         <li class="hidden">
-                            <a 
+                            <a
                                 href="#"
                                 class="border-r pr-4 text-secondary hover:text-accent transition-all duration-300"
                             >Veterinarios</a>
                         </li>
                         <li>
-                            <a 
-                                id="servicesNavBtn"                               
+                            <a
+                                id="servicesNavBtn"
                                 class="border-r pr-4 text-secondary hover:text-accent transition-all duration-300 cursor-pointer"
                             >Servicios</a>
                         </li>
                         <!-- Oculta -->
                         <li class="hidden">
-                            <a 
+                            <a
                                 href="#"
                                 class="border-r pr-4 text-secondary hover:text-accent transition-all duration-300"
                             >Blog</a>
                         </li>
                         <li>
-                            <a 
+                            <a
                                 href="/contacto"
                                 class="border-r pr-4 text-secondary hover:text-accent transition-all duration-300"
                             >Contacto</a>
                         </li>
                         <li>
-                            <a 
-                                target="_BLANK"    
+                            <a
+                                target="_BLANK"
                                 href="https://wa.me/5493416402289?text=Buen%20Dia!%20Queria%20consultar..."
                                 class="text-secondary hover:text-accent transition-all duration-300"
-                            >WhastApp</a>
+                            >WhatsApp</a>
                         </li>
                     </ul>
                 </nav>
@@ -200,6 +267,7 @@
         </div>
     </header>
 
+    <main>
     <!-- Hero -->
     <section 
         class="hero bg-gray-200 py-12 xl:pt-12 xl:pb-0 overflow-hidden">
@@ -228,7 +296,7 @@
                 <!-- img -->
                 <div class="hero__img hidden xl:flex max-w-[814px] self-end">
                     <!-- <img src="assets/img/hero/img.png" alt=""> -->
-                    <img src="assets/img/hero/dogcat.webp" alt="Perro y Gato" loading="lazy">
+                    <img src="assets/img/hero/dogcat.webp" alt="Perro y Gato" fetchpriority="high">
                 </div>
 
             </div>
@@ -306,7 +374,7 @@
                     shadow-custom2 min-h-[288px] flex flex-col items-center text-center">
                     <!-- Grid item icon -->
                     <div class="mb-[15px]">
-                        <img src="assets/icons/services/home.svg" alt="">
+                        <img src="assets/icons/services/home.svg" alt="Icono urgencias veterinarias a domicilio">
                     </div>
                     <!-- grid item title -->
                     <h3 class="h3 mb-[10px]">
@@ -325,7 +393,7 @@
                     shadow-custom2 min-h-[288px] flex flex-col items-center text-center">
                     <!-- Grid item icon -->
                     <div class="mb-[15px]">
-                        <img src="assets/icons/services/stethoscope.svg" alt="">
+                        <img src="assets/icons/services/stethoscope.svg" alt="Icono centro de cirugia veterinaria">
                     </div>
                     <!-- grid item title -->
                     <h3 class="h3 mb-[10px]">
@@ -342,7 +410,7 @@
                     shadow-custom2 min-h-[288px] flex flex-col items-center text-center">
                     <!-- Grid item icon -->
                     <div class="mb-[15px]">
-                        <img src="assets/icons/services/pill.svg" alt="">
+                        <img src="assets/icons/services/pill.svg" alt="Icono farmacia veterinaria">
                     </div>
                     <!-- grid item title -->
                     <h3 class="h3 mb-[10px]">
@@ -359,7 +427,7 @@
                     shadow-custom2 min-h-[288px] flex flex-col items-center text-center">
                     <!-- Grid item icon -->
                     <div class="mb-[15px]">
-                        <img src="assets/icons/services/bath.svg" alt="">
+                        <img src="assets/icons/services/bath.svg" alt="Icono peluqueria canina">
                     </div>
                     <!-- grid item title -->
                     <h3 class="h3 mb-[10px]">
@@ -402,7 +470,7 @@
                             En CIVet realizamos todo lo necesario para que viajes con tu mascota. 
                         </p>
                         <p class="font-light text-center xl:text-left mb-[5px]">
-                            Contamos con amplia experiencia en la colocación de microchip y certificados para viajar con tu mascota. Tambien aplicamos las vacunas necesarias para que viajes a cualqueir destino.
+                            Contamos con amplia experiencia en la colocación de microchip y certificados para viajar con tu mascota. También aplicamos las vacunas necesarias para que viajes a cualquier destino.
                         </p>
                         <p class="font-light text-center xl:text-left mb-[30px]">
                             <span class="text-accent-tertiary">Viaja con tu mascota sin preocupaciones!</span>
@@ -607,9 +675,9 @@
                     <div class="text-base uppercase text-white tracking-[2.24px] font-medium">
                         Nuestra newsletter
                     </div>
-                    <h1 class="h1 mb-4 text-white">
+                    <h2 class="h1 mb-4 text-white">
                         Suscribite para mas información
-                    </h1>
+                    </h2>
                 </div>
                 <!-- form -->
                 <form 
@@ -643,6 +711,8 @@
         </div>
     </section>
 
+    </main>
+
     <!-- Footer -->
     <footer 
         class="footer pt-12 xl:pt-[150px]">
@@ -652,7 +722,7 @@
                 <div class="footer__item flex-1">
                     <!-- Logo -->
                     <a href="/" aria-label="Ir a la pagina principal de inicio">
-                        <img class="w-32" src="assets/img/header/Logo-color.webp" alt="">
+                        <img class="w-32" src="assets/img/header/Logo-color.webp" alt="CIVet Rosario - Centro Integral Veterinario">
                     </a>
                     <!-- Description -->
                     <p class="mb[20px]">
@@ -673,13 +743,13 @@
                             <div class="hover:text-accent-secondary">civetpedemonte@gmail.com</div>
                         </a>
                         <a
-                            href="tel:4851242" 
+                            href="tel:+543414851242" 
                             class="flex items-center gap-x-[6px]">
                             <i class="ri-phone-fill text-[24px] text-accent"></i>
                             <div class="hover:text-accent-secondary">4851242 </div>
                         </a>
                         <a
-                            href="tel:03416402289" 
+                            href="tel:+5493416402289" 
                             class="flex items-center gap-x-[6px]">
                             <i class="ri-24-hours-line text-[24px] text-accent"></i>
                             <div class="hover:text-accent-secondary">(0341) 640-2289</div>
@@ -774,7 +844,7 @@
                 <div class="font-ligth text-base">
                     Diseñado por <a target="_BLANK" href="https://www.linkedin.com/in/santiagopedemonte/" class="text-accent">Pedemonte Santiago</a>
                     <br>
-                    &copy; 2024 CIVet - Todos los derechos reservados
+                    &copy; 2025 CIVet - Todos los derechos reservados
                 </div>
             </div>
         </div>
@@ -788,7 +858,7 @@
             target="_BLANK" 
             href="https://wa.me/5493416402289?text=Buen%20Dia!%20Queria%20consultar..."
             aria-label="Ir al whatsapp de civetrosario">
-            <img src="assets/icons/whatsapp/whatsapp.svg" alt="">
+            <img src="assets/icons/whatsapp/whatsapp.svg" alt="Contactar por WhatsApp">
         </a>
     </div>
     
