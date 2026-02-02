@@ -335,14 +335,6 @@ Based on placeholders found in code:
 
 ---
 
-## Payment & Pricing
-
-**Currencies Accepted**: ARS (Argentine Peso)
-**Payment Methods**: Cash, Credit Card
-**Price Range**: $$ (Mid-range)
-
----
-
 ## Design & UX Elements
 
 ### Key Visual Elements
