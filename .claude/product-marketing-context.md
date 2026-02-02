@@ -103,7 +103,7 @@
 - **Full Service Name**: MicroChip para Perros & Gatos
 - **Tagline**: "Viaja con tu mascota sin preocupaciones!"
 - **Services Include**:
-  - Microchip implantation (extensive experience, 620+ microchips placed)
+  - Microchip implantation (extensive experience, 800+ microchips placed)
   - Travel certificates for pets
   - Required vaccinations for travel
 - **Experience**: "Amplia experiencia en la colocación de microchip y certificados para viajar"
@@ -119,7 +119,7 @@
 ## Key Statistics & Social Proof
 
 - **7,200+** Mascotas felices (Happy pets)
-- **620+** MicroChips colocados (Microchips placed)
+- **800+** MicroChips colocados (Microchips placed)
 - **3,100+** Cirugías realizadas (Surgeries performed)
 - **27+** Años de trayectoria (Years of experience)
 - **4.6⭐** Google rating with **250+ reviews** (Excellent local SEO authority)
@@ -275,7 +275,7 @@
 1. **27+ years of experience** in Rosario
 2. **Excellent reputation** (4.6⭐ with 250+ Google reviews)
 3. **Modern facilities** with video monitoring
-4. **Travel expertise** (620+ microchips, extensive certification experience) ⭐ MARKETING PRIORITY
+4. **Travel expertise** (800+ microchips, extensive certification experience) ⭐ MARKETING PRIORITY
 5. **Comprehensive services** (pharmacy, grooming, surgery, consultations)
 6. **Local leader** ("Líder en el cuidado de mascotas en Rosario")
 7. **Proven track record** (7,200+ happy pets, 3,100+ surgeries)
@@ -409,7 +409,7 @@ Based on current inactive/hidden elements:
 2. **Dr. Julian Pedemonte** is the founder and should be highlighted as the trusted expert
 3. **⚠️ DO NOT prioritize emergency service marketing** - sufficient demand already, focus elsewhere
 4. **✅ MARKETING PRIORITIES** (in order):
-   - **MicroChip & Travel Services** (specialized expertise, 620+ placed, premium service)
+   - **MicroChip & Travel Services** (specialized expertise, 800+ placed, premium service)
    - **Cirugía & Internación** (3,100+ surgeries, modern facilities, video monitoring)
    - **Farmacia Veterinaria** (pharmacy products)
    - **Peluquería Canina** (grooming services)

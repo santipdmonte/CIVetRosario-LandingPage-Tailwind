@@ -5,7 +5,7 @@
 ## METADATA / SEO
 
 **Title**: Microchip para Mascotas en Rosario | Viajá con tu Perro o Gato | CIVet Rosario
-**Meta Description**: Microchip y certificados para viajar con tu mascota desde Rosario. 620+ microchips colocados. 27 años de experiencia. Dr. Julian Pedemonte. ¡Viajá sin preocupaciones!
+**Meta Description**: Microchip y certificados para viajar con tu mascota desde Rosario. 800+ microchips colocados. 27 años de experiencia. Dr. Julian Pedemonte. ¡Viajá sin preocupaciones!
 **URL**: /viajar-con-tu-mascota (o /servicios/microchip-viajes)
 **Keywords**: microchip para perros rosario, viajar con mascota argentina, certificado para viajar con perro, microchip gatos rosario, requisitos para viajar con mascota
 
@@ -20,7 +20,7 @@
 MicroChip, Certificados y Vacunas para viajar con tu mascota—todo en CIVet
 
 ### Trust Badges (debajo del subheadline)
-- ✓ 620+ MicroChips Colocados
+- ✓ 800+ MicroChips Colocados
 - ✓ 27 Años de Experiencia
 - ✓ **4.6⭐** (250+ reviews)
 - ✓ Dr. Julian Pedemonte
@@ -69,7 +69,7 @@ Desde el primer paso hasta que subís al avión, te guiamos con toda la document
 #### 1. MicroChip Certificado
 **Icono**: Chip / microchip
 **Descripción**:
-Colocamos microchips homologados internacionalmente. Es rápido e indoloro. Tenemos experiencia: más de 620 microchips en 27 años.
+Colocamos microchips homologados internacionalmente. Es rápido e indoloro. Tenemos experiencia: más de 800 microchips en 27 años.
 
 **Beneficios**:
 - **Homologado internacionalmente** — Aceptado en todos los países, viajás sin rechazos
@@ -229,7 +229,7 @@ Tenemos experiencia gestionando documentación para todos estos destinos y más:
 ## SOCIAL PROOF / TESTIMONIOS
 
 ### Headline (H2)
-**Más de 620 Familias Viajaron con sus Mascotas Gracias a CIVet**
+**Más de 800 Familias Viajaron con sus Mascotas Gracias a CIVet**
 
 ### Subtítulo
 Esto dicen algunos de nuestros clientes que viajaron con sus mascotas:
@@ -281,7 +281,7 @@ Esto dicen algunos de nuestros clientes que viajaron con sus mascotas:
 
 #### 2. Experiencia Comprobada
 **Icono**: Trofeo / medalla
-**Número**: 620+
+**Número**: 800+
 **Texto**: MicroChips colocados exitosamente para viajes a más de 15 países. Conocemos los requisitos de los destinos más frecuentes.
 
 #### 3. Trayectoria de Confianza
@@ -381,7 +381,7 @@ El tiempo necesario varía según tu destino, pero aquí te damos una guía gene
 **¿El microchip le duele a mi mascota?**
 
 **Respuesta**:
-No. Según la experiencia del Dr. Pedemonte con más de 620 microchips colocados, el procedimiento es como una vacuna común. Se usa una aguja un poco más grande, pero dura apenas 5-10 segundos. La mayoría de las mascotas ni siquiera reaccionan. No requiere anestesia y tu mascota puede irse caminando normalmente.
+No. Según la experiencia del Dr. Pedemonte con más de 800 microchips colocados, el procedimiento es como una vacuna común. Se usa una aguja un poco más grande, pero dura apenas 5-10 segundos. La mayoría de las mascotas ni siquiera reaccionan. No requiere anestesia y tu mascota puede irse caminando normalmente.
 
 ---
 
@@ -528,7 +528,7 @@ Llamar al Consultorio
 ### Elementos a incluir (barra horizontal con iconos)
 
 - ✓ **27 años** de experiencia
-- ✓ **620+** microchips colocados
+- ✓ **800+** microchips colocados
 - ✓ **4.6⭐** (250+ reviews)
 - ✓ **Dr. Julian Pedemonte** - Matrícula profesional
 - ✓ Todo en **un solo lugar**
@@ -559,7 +559,7 @@ Llamar al Consultorio
 - Después de FAQ: 1 CTA (final, más fuerte)
 
 ### Elementos de conversión:
-- Números específicos (620, 27 años, 4.6 estrellas)
+- Números específicos (800, 27 años, 4.6 estrellas)
 - Testimonios reales con nombre + destino (IMPORTANTE: agregar fotos de clientes con mascotas si es posible, o links a reviews reales de Google)
 - Timeline claro (reduce incertidumbre)
 - FAQ extensa (resolver objeciones)
