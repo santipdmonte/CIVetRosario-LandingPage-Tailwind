@@ -195,7 +195,14 @@
    - MicroChip/Travel section
    - Newsletter signup (Mailchimp)
 
-2. **Contacto** (`/contacto`)
+2. **Viajar con tu Mascota** (`/viajar-con-tu-mascota.html`)
+   - Landing page dedicada a MicroChip y servicios de viaje
+   - Secciones: Hero, Pain Points, 3 Servicios, Proceso (5 pasos), Destinos, Testimonios, Diferenciadores, Timeline por región, FAQ (12 preguntas), CTA Final, Trust Bar, Newsletter
+   - CTAs distribuidos: WhatsApp + teléfono
+   - Schema.org: Service + FAQPage
+   - JS propio: `js/viajes.js` (FAQ accordion, mobile nav, ScrollReveal)
+
+3. **Contacto** (`/contacto`)
    - Contact methods (emergency, WhatsApp, consultorio, grooming)
    - Calendly appointment booking widget
    - Full contact information
@@ -388,8 +395,8 @@ Based on current inactive/hidden elements:
 
 1. **Blog Activation**: Blog section exists but is hidden - opportunity for content marketing
 2. **Veterinarians Page**: Navigation exists but hidden - could showcase team
-3. **Service Expansion**: Could create dedicated landing pages for each service
-4. **Enhanced Travel Services**: Could expand microchip/travel content given expertise
+3. **Service Expansion**: Could create dedicated landing pages for each service (travel landing page already created)
+4. **Enhanced Travel Services**: Travel landing page live at `/viajar-con-tu-mascota.html` — could add blog content, case studies
 5. **Pet Care Products**: Pharmacy section could be expanded to e-commerce
 
 ---
@@ -422,4 +429,4 @@ Based on current inactive/hidden elements:
 
 ---
 
-Last Updated: February 2, 2025
+Last Updated: February 2, 2026
