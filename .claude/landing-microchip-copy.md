@@ -157,7 +157,7 @@ Aplicamos las vacunas necesarias y emitimos el certificado de vacunación antirr
 #### Paso 4: Emisión de Certificado Sanitario
 **Icono**: Documento con sello
 **Descripción**:
-El Dr. Pedemonte emite el certificado sanitario para viaje (CZI - Certificado Zoosanitario Internacional si corresponde).
+El Dr. Pedemonte prepara toda la documentación veterinaria necesaria para que puedas presentarte en SENASA y obtener el Certificado Zoosanitario Internacional (CZI).
 
 **Detalles**:
 - Chequeo de salud completo de tu mascota
